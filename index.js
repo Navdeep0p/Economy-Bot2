@@ -223,4 +223,4 @@ console.log('conected to database');
 });
 
 keepAlive();
-bot.login(process.env.token);
+bot.login(process.env.TOKEN);
